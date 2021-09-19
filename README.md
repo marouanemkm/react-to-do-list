@@ -1,4 +1,3 @@
-# Création d'une to do list en React
+# React.js ToDo List
 
-## Avec Bootstrap pour la partie CSS
-## Project terminé
+### Création d'une todo liste avec React.js, project terminé
